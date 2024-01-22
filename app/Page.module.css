@@ -1,0 +1,15 @@
+.form{
+    display: grid;
+}
+
+.form input{
+    height: 30px;
+}
+
+.greeting{
+    text-align: center;
+}
+
+.layanan{
+    width: 100%;
+}
