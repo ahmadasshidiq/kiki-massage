@@ -65,7 +65,7 @@ export default function Home() {
         <p style={{fontSize: '11px', color: 'white', textAlign: 'center', height: '1px'}}>Contact Us</p>
         <div style={{display: 'flex', flex: 'wrap', alignItems: 'center', justifyContent: 'center'}}>
           <Image src={whatsApp} alt="" style={{width: '15px', height: '15px'}}/>
-          <p style={{fontSize: '11px', color: 'white', textAlign: 'center', height: '10px'}}>+62 877-7329-4573</p>
+          <p style={{fontSize: '11px', color: 'white', textAlign: 'center', height: '10px'}}>+62 812-1039-0991</p>
         </div>
       </footer>
 
