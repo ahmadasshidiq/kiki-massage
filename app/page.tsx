@@ -33,7 +33,7 @@ export default function Home() {
 
       <div className={styles.greeting}>
         <h3>Selamat Datang</h3>
-        <p>Nikmati pengalaman pijat tradisional yang menyegarkan dan membantu Anda mencapai kesejahteraan total untuk kesehatan dan kebahagiaan Anda.</p>
+        <p>Layanan jasa massage murah dan profesional di bidang nya. Kami siap datang ke lokasi anda dan siap melayani anda kapan saja dan dimana saja. Layanan kami di jamin aman dan sudah terbukti keampuhan nya. Jangan ragu untuk memesan layanan kami dan rasakan sensasinya sentuhan lembut dengan manja.</p>
       </div>
 
       <h3>Kami Memberikan Layanan</h3>
